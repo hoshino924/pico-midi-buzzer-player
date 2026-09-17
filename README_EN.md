@@ -44,7 +44,7 @@ Neither the repository nor its Releases provides MIDI or `.m7s` music data. `.gi
 ### PCB Files
 
 - Gerber and drill files ready for PCB fabrication belong in `hardware/gerber/`.
-- The editable PCB project will be published on an external hardware-design platform. Its URL will be added here after that project is created.
+- The editable PCB project has be published on an external hardware-design platform.  https://oshwhub.com/andyray/project_hbfraeku
 - Gerbers committed to this repository are provided under the MIT License, but users should still verify board-house rules, footprints, and electrical parameters before fabrication.
 
 ### GPIO Assignment
