@@ -44,7 +44,7 @@ pico-midi-buzzer-player/
 ### PCB 文件
 
 - 可直接交给 PCB 工厂的 Gerber 和钻孔文件放在 `hardware/gerber/`。
-- 可编辑 PCB 工程将在外部硬件设计平台公开；具体链接将在平台项目建立后补充到这里。
+- 可编辑 PCB 工程在外部硬件设计平台公开： https://oshwhub.com/andyray/project_hbfraeku
 - Gerber 属于本仓库内容，按 MIT License 提供，但生产前仍应自行检查板厂规则、封装和电气参数。
 
 ### GPIO 分配
