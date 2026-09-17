@@ -1,0 +1,18 @@
+# Python caches
+__pycache__/
+*.py[cod]
+
+# MIDI source material is intentionally never committed
+*.mid
+*.midi
+local-assets/
+
+# Generated music data stays local and is never distributed by this project
+*.m7s
+release-assets/
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
